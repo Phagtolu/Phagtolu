@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<!Welcome to my Data Analytics Portfolio.
+Welcome to my Data Analytics Portfolio.
 
 This repository showcases projects demonstrating my skills in:
 
@@ -41,16 +40,39 @@ Evaluation of regional sales and profitability trends.
 Email: phagbejahtolu@gmail.com
 
 --
-**Phagtolu/Phagtolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+To analyze sales performance across products, customers, and markets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools Used
+
+- PostgreSQL 17
+- Excel
+- Power BI
+
+## Business Questions
+
+1. Which market generates the highest revenue?
+2. Which products generate the highest profit?
+3. What are the monthly sales trends?
+4. Which customers contribute the most revenue?
+
+## KPIs
+
+- Total Revenue
+- Total Profit
+- Total Quantity Sold
+- Return Rate
+
+## Key Findings
+
+- Technology category generated the highest revenue.
+- Top 10 customers contributed a significant share of sales.
+- Revenue increased during peak sales periods.
+
+## Recommendations
+
+- Expand high-performing product categories.
+- Improve retention strategies for key customers.
+- Monitor low-performing regions
+
+[Sales_Performance_Presentation Fagbeja T.v.pptx](https://github.com/user-attachments/files/28593794/Sales_Performance_Presentation.Fagbeja.T.v.pptx)
